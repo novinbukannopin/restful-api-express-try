@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ded2be8-34e2-4ac1-87b0-f1a071d324ee" name="Changes" comment="" />
+    <list default="true" id="0ded2be8-34e2-4ac1-87b0-f1a071d324ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/address.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +22,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ZcsifLnVqyhhftmjzLyWtAoBje" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702732830979</updated>
-      <workItem from="1702732831998" duration="2630000" />
+      <workItem from="1702732831998" duration="4217000" />
+      <workItem from="1702796567182" duration="590000" />
     </task>
     <servers />
   </component>
