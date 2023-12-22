@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ded2be8-34e2-4ac1-87b0-f1a071d324ee" name="Changes" comment="" />
+    <list default="true" id="0ded2be8-34e2-4ac1-87b0-f1a071d324ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/web.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/web.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +47,7 @@
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "prod",
-    "last_opened_file_path": "D:/Novins/Programming/nodejsfull/belajar-nodejs-restfulapi",
+    "last_opened_file_path": "D:/Novins/Programming/nodejsfull/app-express",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +58,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Novins\Programming\nodejsfull\belajar-nodejs-restfulapi\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +73,11 @@
       <updated>1702732830979</updated>
       <workItem from="1702732831998" duration="4217000" />
       <workItem from="1702796567182" duration="1263000" />
+      <workItem from="1702816727333" duration="2254000" />
+      <workItem from="1702819015435" duration="197000" />
+      <workItem from="1702819246304" duration="821000" />
+      <workItem from="1702820089730" duration="412000" />
+      <workItem from="1703253634089" duration="115000" />
     </task>
     <servers />
   </component>
